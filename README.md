@@ -70,6 +70,7 @@ Insufficient Data → low mentions
 For each hotel × attribute:
 
 Top 3 high-confidence sentences are surfaced
+
 **Outputs**
 labeled_reviews.csv → LLM-labeled dataset
 model_*.joblib → trained models per attribute
