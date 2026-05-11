@@ -120,10 +120,15 @@ Aggregation & tiering
 
 
 **Deliverables**
+
 ✅ End-to-end pipeline code
+
 ✅ Labeled dataset (LLM-generated)
+
 ✅ Trained model artifacts
+
 ✅ Evaluation results
+
 ✅ This README
 
 
