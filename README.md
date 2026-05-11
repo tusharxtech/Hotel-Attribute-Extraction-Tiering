@@ -98,14 +98,23 @@ Model training
 Aggregation & tiering
 
 📁 Repository Structure
+
 ├── notebooks/               # Colab / Jupyter notebooks
+
 ├── models/                  # Saved models
+
 ├── data/                    # Dataset + labeled data
+
 ├── labeled_reviews.csv
+
 ├── hotel_tiers.csv
+
 ├── hotel_evidence.json
+
 ├── eval_results.json
+
 ├── README.md
+
 └── WRITEUP.md
 
 
