@@ -38,6 +38,7 @@ evidence (supporting sentence)
 **Quality Control:**
 
 Filtered labels with confidence < 0.5
+
 3. Modeling
 
 Each attribute has its own classifier:
