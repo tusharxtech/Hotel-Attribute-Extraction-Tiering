@@ -101,23 +101,21 @@ Aggregation & tiering
 
 📁 Repository Structure
 
-├── notebooks/               # Colab / Jupyter notebooks
+Hotel_Attribute_Extraction_&_Tiering.ipynb #colab file
+README.md
+checkpoint.json
+eval_results.json
+hotel_evidence.json
+hotel_tiers.csv
+labeled_reviews.csv
+model_cleanliness.joblib
+model_location_accessibility.joblib
+model_safety_&_securiy.joblib
+model_staff_service.joblib
+model_wifi_quality.joblib
+tripadvisor_hotel_reviews.csv
 
-├── models/                  # Saved models
 
-├── data/                    # Dataset + labeled data
-
-├── labeled_reviews.csv
-
-├── hotel_tiers.csv
-
-├── hotel_evidence.json
-
-├── eval_results.json
-
-├── README.md
-
-└── WRITEUP.md
 
 
 **Deliverables**
