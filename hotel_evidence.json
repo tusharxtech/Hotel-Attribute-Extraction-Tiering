@@ -1,0 +1,3472 @@
+{
+  "0": {
+    "cleanliness": {
+      "tier": "Elite",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 11,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "it spotless.",
+        "room beautiful spacious clean",
+        "enjoyed nightly turn service exceptionally clean room bathroom"
+      ]
+    },
+    "staff_service": {
+      "tier": "Elite",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 10,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "must make special mention lads mikes coffee shopand alexander lobby bar 24 hour smiles entertainment 90 staff maids management",
+        "staff courteous accommodating",
+        "staff encountered helpful friendly, asked room service additional towels lotions etc. no problem all"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 1,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "metro, airport sol 1 euro, easy navigate coloured numbered lines heavy bags station changes stairs bit awkward peak times.",
+        "hotel location optimal right chinatown stone throw union square, close bart getting orchard garden sfo surprisingly quick",
+        "good access wangfujing street nearby shopping, 30 minute walk forbideen city"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "fridge mini bar safe room",
+        "able sleep doorwall open everynight"
+      ]
+    }
+  },
+  "1": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "hotel room filthy, maybe not rooms filthy really disgusting, mold bathrooms aroundthe toilet near tub sink lightfixture dirty tub bathroom counter n't wiped elses toothpaste dribbles arrived, drinkingglasses dirty, dead bugs smooshed wall ceiling counted 4 dead bugs splattered- n't wiped away splatter",
+        "horrible room 405 small musty right elevator, room dreadful",
+        "distressing thing smell hotel, really bad moldy musty smelling open windo fresh hot 90 degrees air, coming air conditioner"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 3,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "staff helpful friendly, case special way, jeff helped basic necessities lookout police finally arrived, rest staff helpful remaining days stay",
+        "no problem staff fact quite pleasant",
+        "staff helpful stored luggage weeks"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "guess n't great rate internet"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "great location spent nights beachcomber hotel enroute maui, good news location central need want, walk ocean hotel not surrounded marketplace upscale shopping restaurants moderate upscale dining",
+        "need easily train bus taxi ferry foot",
+        "good location money, walking distance ramblas"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Superior",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "jeff helped basic necessities lookout police finally arrived 3",
+        "felt safe area hotel hotel secure",
+        "room safe"
+      ]
+    }
+  },
+  "2": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 6,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "dirty shoddy place",
+        "room dark dingy outdated, small pillows, no towels remote tv, ac did n't work rooms according group",
+        "room smelled musty fridge rust hinge furniture banged carpet looked like n't swept tub grime mold ceiling"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "doormen sweet great getting cabs quickly us, great hotel easy subway access great rooms great staff",
+        "hotel commended keeping buffet open accomodating large group hostile travellers 11 pm",
+        "helpful staff inspite reviews read booked particular hotel conveniences city san francisco not just airport, writing surprised end stay happy service staff hotel, staff friendly willing help everyway"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "internet usage"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 7,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "great hotel easy subway access",
+        "location quiet nice walk river centre",
+        "location hotel great, starbucks great asset hotel sanburns directly right exit hotel"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 3,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "looked like film set garish new york multiple murder story not kidding",
+        "5th floor button elavator did n't work stairs 4th floor elavator",
+        "vacuum cleaner stored elevator"
+      ]
+    }
+  },
+  "3": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 5,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "rooms comfortable/clean",
+        "n't clean, hairs dust floors walked, stains carpets sheets, rooms plain, nothing special all",
+        "rooms old 50, no fan bathroom tiles falling missing screws tub, smoke seeped floor came bathroom"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 5,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "staff polite friendly, hotel staff loaded luggage bus left hotel narita hour, really pleasant stay",
+        "wasted 45 minutes arguing person premium service desk, not greeted drinks expected 4+ resort",
+        "desk kind helpful especially lost suitcase,"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "tried connect internet room, surprise calling times desk informed guests connect network cord room internet connection hotel not supply cord,",
+        "promised internet access not available 1st 2 days"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Premium",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 3,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "location hotel n't better, travel airport hotel smooth convenient",
+        "blocks metro minutes walk eiffel tower,",
+        "brilliant position, just walk door 3 minutes harbour enjoying famous sights, rocks"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "hotel erroneously charged mini-bar 50.00, did not use mini bar guessing hotel employee took stuff mini-bar charged room",
+        "oh 25 park car just great",
+        "hallways rooms dark physically dangerous"
+      ]
+    }
+  },
+  "4": {
+    "cleanliness": {
+      "tier": "Fail",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 9,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "it took 5 days hand towels, no face clothes available, glasses cups changed rooms, simply rinsed left, dirty rings week, left outside room, none maid__\u00c7_\u00e9_ carts, room dailey really cleaned",
+        "rooms hallways dirtyand rundown, entire hotel including pretty lobby musty moldy smell,",
+        "room tiny, bathroom absolute disgrace, tell clean looked filthy moulded broken tiles, shower just showerhead spraying bathroom floor"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 15,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 7,
+        "neutral": 4
+      },
+      "evidence_sentences": [
+        "staff later let slip theft safe day.security hotel dire, staff assured report theft police failed leaving no time left report coach arrived ship, theft hotel staff extremely rude patronising adding insult injury, no-one hotel came speak nor private discuss happened, clear theft happened hotel lookout didn\u2019t care",
+        "took days water supplied ensure safe drinking water, told desk drink tap water in-fact incorrect, specifically asked desk numerous occasions towels water disappointed time not supplied, bar fridge room really included follow employee did re-fills pointed wanted",
+        "staff way helpful reception manned 24 hours day"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "wi-fi does n't work, guest n't laptops ip addresses connect",
+        "internet value rooms lousy"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Premium",
+      "n_mentions": 7,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "situated avinguda sarria 5 minutes walk hospital clinic metro station, bus stop red blur routes bus turistic 7 minutes walk away, centre reach public transport 15 minutes",
+        "located right underground metro station",
+        "location perfect, close central station short walk away dam"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "24 hours bag stolen inside hotel, thieves remained premises, husband intervention prevented going room emptying safe, reason room safe keys clearly marked room number, no-one security weekend ncl guests function rooms used people outside hotel, cctv cameras unavailable",
+        "heard arguments hotel manager long term residents glass foyer door kicked police visited evict tenant.",
+        "neighbours spent time doin strange noises banging door smoking dope almos intoxicated awful"
+      ]
+    }
+  },
+  "5": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 18,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 9,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "room size small walk-in closet old dark hot stuffy, rooms double rooms just little larger small single equally dark old stuffy hot air conditioning unable reasonably cool rooms",
+        "rooms clean, bathrooms small clean",
+        "rooms kept cleaned day, room staying nice living room couch chair standard size bathroom nice bedroom accommodated people nicely"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 18,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 8,
+        "neutral": 3
+      },
+      "evidence_sentences": [
+        "animation team/ entertainmentthese guys trip blast, energetic talented friendly funny work hard morning late night",
+        "staff friendly helpful",
+        "reception staffare useless rude"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "Premium",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "internet service twice price 3 blocks away,",
+        "having free afternoon snacks free internet real bonus",
+        "lobby use check email surf internet"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 4,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "great location too",
+        "firstly location not nice did not feel comfortable walking niehbourhood dark",
+        "main drawback metro, started room 2nd floor 5am day room shudder bed vibrate 10 minutes trams"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Premium",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "secondly not happy security, basically times day anybody walk garage area hotel corridors, admitted cameras did not feel safe",
+        "safe place stay, willing pay price safety resort away action",
+        "walls little bunch drunk 20 yr olds pounding doors til 4am"
+      ]
+    }
+  },
+  "6": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "wonderful hotel clean comfortable spacious rooms roomsvery spacious clean totally spotless, neat freak say place passed test, carpet clean shower spotless tables walls clean.",
+        "suite odd collection furniture haphazardly arranged dirty room, looked room use time, large cockroach type insect happily making way bathroom,",
+        "wet shower picture, did n't realize operational toilet seat badly cracked water, towels lovely clean did n't absorb, ended trying sponge bath sink awkward confined space,"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 5,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "everyone working hotel friendly helpful especially leonor stay special, requested late 8 pm check thanksgiving leonor sure taken care, surprised returned beach day invited turkey dinner hotel homemade pumpkin pie",
+        "women desk surfing internet, hour asked sure n't check hand, woman said got let room, bed falling asleep called room told wrong room, told bed threatened smaller room did n't cooperate, barely gave time pack door telling, frustrated treated like rest hotel fine",
+        "hotel pretty nice things inside say service horrible strarted told ghost bar swimming pool pretty excited.. got valet stand right outside door really nice gave 20 tip and.. usually did went inside check not crowed took long time check finally kept talking ghost bar saying, finally got room nice pretty view stayed wonderful room, went room saw snacks room called desk ask snack room said told bday snacks beverages room free ended course eating getting drinks gh"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 1,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "good location poor sound insulation hotel luxer located right warmoestraat just quick walk centraal station",
+        "hotel located located fringe orchard road good 15 minute walk ngee ann city",
+        "location great, blocks door convention center hall long way end, short walk french quarter"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "clean safe hotel sightseeing days late evenings, amenities handy safe room",
+        "parking lot safe secure covered."
+      ]
+    }
+  },
+  "7": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 15,
+      "sentiment_breakdown": {
+        "positive": 10,
+        "negative": 3,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "rooms specified clean tidy, bathroom good size clean shower/tub roomy",
+        "room floor adequate not large definitely did n't spend time sleep",
+        "comfortable trendy looking room"
+      ]
+    },
+    "staff_service": {
+      "tier": "Elite",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "hotel staff friendly greeting left returned, great making recommendations places eat best way somewhere",
+        "staff encountered gave excellent service",
+        "fantastic great staff"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "the wi-fi internet network did not work day hotel added wife router network not working.",
+        "free internet acces bonus"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "convenient central location convenient public transportation relatively quiet street great neighborhood",
+        "loved location convenient great restaurants shopping embarcadero public transportation",
+        "close train station really n't need taxi hotel maybe minute walk"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Premium",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "nice residential neighborhood safe quiet",
+        "room didnt feel secure no lock door anybody access room time",
+        "hotel guarded compound did n't particularly dangerous area"
+      ]
+    }
+  },
+  "8": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "room decorated tropical feel clean like idea clean tile floors vs carpet hotel room",
+        "facilities beach landscaping fabulous excellent shape, really loved resort rooms bigger average beautiful marble bathrooms, pools beach clean beautiful plenty chaise loungers shade sun",
+        "room tidy good size bed massive"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 2,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "staff efficient polite",
+        "husband received great service minute contacted hotel make enquiry, prior making booking meet reservation staff showed number rooms available, staff professional helpful happy work",
+        "service restaurants really bad, hotel short personnel, waiting long restaurants addition ask napkins silverware water time waiters waitresses did not placed table simply forgot ask"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "great location near time square impressed hotel particularly midtown location",
+        "hotel ideally located tourists just freidrichstrasse station, minutes walk reichstag brandenburg gate pergamon museum, nearby train station road convenient means transport schonefeld airport s9",
+        "great location value service stayed business definitely return location great"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Premium",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "man apprx mid late 20s tried rob husband husband walked narrow street near hotel minutes prior checking, check check total disaster,",
+        "location near train station convenient did n't dangerous",
+        "gate beach closes 6pm"
+      ]
+    }
+  },
+  "9": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 1,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "rooms resort wonderfully appointed jaccusi sp tubs plenty towels ac works great new, frig beer mixers liquor bottles mounte",
+        "room excellent quiet clean",
+        "absolutely impeccable, fresh orchids large suite plush robes slippers ridiculously comfortable bed"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "hotel staff warm welcoming nothing trouble anytime day,",
+        "staff nicest people met, working 12 hours straight smiling energy, kept entertained",
+        "staff exceedingly helpful"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "internet available 24 hours lobby"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 10,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "1/2 block union square street car line not ask 129.00 night",
+        "location perfect",
+        "short walk bus stop airport piazza le roma train station vaporetto stop, means actually bus airport euros/person dropped piazza le roma reasonably walk hotel small suitcase"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "disclosure cross bridges young no problem making walk, ca n't imagine having lug suitcases hotels canal"
+      ]
+    }
+  },
+  "10": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 3,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "room minimalistic exaggeration, bedroom laminated floor cheap white cotton duvet no mirrors no decor speak nothing no luxuries whatsoever,",
+        "problems including bathroom flooded sea water problem plumbing, ceiling leaked rained, room average not spacious small window no view noisy room including plane style toilet aircon did not work properly",
+        "hotel looks great clean cool lines high ceilings big windows comfortable beds"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 5,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "informed no rooms available stay, early morning asked moved asked room accepting, informed room not available 4:00 p.m. desk wanted leave bags, not comfortable accepting room sight unseen charges accrueing day, refused adjust credit card",
+        "staff hotel speak english including housekeepers helpful.",
+        "checked late staff cuffs bar downstairs fantastic ensured got good meal kitchen closing time"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "there great shopping nearby sightseeing subway short distance, ask view forbidden city extraordinary right heart city experience not missed,",
+        "location fantastic just minutes walk lovely newbury street copley mall boston commons",
+        "it handy rockefellar centre saks 5th ave tiffanys"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "huge electric blind covered entire wall glass balcony door did n't lock, just like imagine prison cell",
+        "not luggage left terminal 5 heathrow returned 2 weeks later, wary taxis airport ask price paid 85 newark sure driver asking paid arrived pre-paid transport uk naivelly told this"
+      ]
+    }
+  },
+  "11": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 21,
+      "sentiment_breakdown": {
+        "positive": 14,
+        "negative": 3,
+        "neutral": 4
+      },
+      "evidence_sentences": [
+        "needless say clean",
+        "hotel maintained kept immaculately clean think rooms benefit update, having said public areas extremely presented especially foyer restaurants pool area function rooms,",
+        "room small clean equipped, bathroom modern clean"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 19,
+      "sentiment_breakdown": {
+        "positive": 10,
+        "negative": 6,
+        "neutral": 3
+      },
+      "evidence_sentences": [
+        "very friendly helpful staff",
+        "every staff member met courteous helpful",
+        "did not royal service soon arrived treated did, thought confused royal service guests, taken room golf carts instead having wait train, set dinner reservation night japanese restaurant dinner following 2 nights italian"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "Premium",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "charge 7 euro use internet- went internet cafe",
+        "appreciated free internet access",
+        "advised use received cable"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 16,
+      "sentiment_breakdown": {
+        "positive": 12,
+        "negative": 0,
+        "neutral": 4
+      },
+      "evidence_sentences": [
+        "great location exploring sydney surrounding area convenient buses great walking easy quick access town ferries bondi southern beaches direction",
+        "hotel ideally situated mtr star ferry buses shops,",
+        "fantastic value money great location boot, say think place amazing, opinion new orleans absolute must-see hotel place stay seeing, really just minute safe, walk action french quarter means just far away good night sleep n't know gets sleep hotels bourbon street"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "no sun loungers roudy bar got nervous swiming pool bar drink comments swim past, day arrived got drunk people sick pool security drag did n't cleaned",
+        "key lock wall safe reason"
+      ]
+    }
+  },
+  "12": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 7,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 3,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "entering lobby checking bell boy loitering area, just looked suitcases did not offer assist rooms, rooms floor construction, no attempt cover rubble construction mess plain view, garbage bag middle hallway, entered room tiny, bathroom tinier, the glasses provided bathroom smudgy not washed occupant left, the bed cover old caused itch, removed bed cover blanket worn looked uncomfortable, worst removed blanket bedsheet stain looked like blood, the towels no better, towels provided stains",
+        "room linens smelled mildew, beds linens old stained",
+        "nice large clean room"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 5,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "none really remember story good old hospitality service absolutely incredible, day met spoke pearl grace took exceptional care arrival sure no concerns, check speedy bags taken room realized gone, pearl went way help secure car rental reserve shuttle service later week change seats return flight home 2nd day met leonor initial warm friendly greeting looked forward seeing single morning chance, feel like hotel care not case does actually, extremely blessed talented does, really asked went way make sure morning little breakfast pastries gave",
+        "bell boy loitering area, just looked suitcases did not offer assist rooms, no attempt cover rubble construction mess plain view",
+        "xavier concierge extremely helpful recommending restaurants bars addition extensive knowledge shopping haunts st germain"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "free wireless internet"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 0,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "location great block beach right heart waikiki good distance away hustle/bustle stores nightly street performers",
+        "superb location centre paris close virtually major sights close walk metro distances far walking",
+        "great location right cathedral"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "luggage hall room tag label tear n't know, tried hotel luggages clerck apparently luggage wrong bus direction santo domingo"
+      ]
+    }
+  },
+  "13": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "rooms extremely clean especially bathrooms,",
+        "desperate need major refurbishment hotel let badly poor housekeeping service standards, room 1st level overlooking hickson st. dark dingy tired, not covered 2cms, dust",
+        "non-functioning rainforest bathroom electrical problems room horrors experience, ceiling literally rained week despite 3 calls leak fixed, showerhead broken wall twice 7 days stopper whirlpool tub unplugged"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 3,
+        "neutral": 3
+      },
+      "evidence_sentences": [
+        "staff friendly helpful,",
+        "staff cordial gave suggestions helped trip,",
+        "customer service perfect, different receptionists helpful gave excellent recommendations"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 7,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "hotel excellent location walking distance eifel tower metro good restaurants,",
+        "location central virtually walk",
+        "good choice marqueen place stay going key arena seattle center venues short walk away,"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 4,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "septic truck parked right outside window proceeded septic/sewer filling room unpleasant stink",
+        "bit worried no ear plugs bed mentioned previous reviews wednesday thought nothing noisy went 8pm bar hotel dead thought safe, arrived half 11 crowded street bikes, plays basketball 4am small courtyard just hotel noise worse music bar",
+        "basement bar meeting place young locals, aperatiffe going dinner amazed groups young people drinking bottles stubbing cigarettes beautiful stone floor, returned later nightcap lounge could'nt hear ears rock music night club downstairs, youngsters streaming showing age confirmation passes"
+      ]
+    }
+  },
+  "14": {
+    "cleanliness": {
+      "tier": "Elite",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "sleep room clean pretty satisfied",
+        "clean great attendance problem remote n't mess not working",
+        "clean stylish rooms"
+      ]
+    },
+    "staff_service": {
+      "tier": "Elite",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "great helpful staff",
+        "clean curtious staff quiet accommodating",
+        "staff friendly"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "internet availability 12 cents/minute"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "great location not water took 30 seconds toget water bus stop",
+        "walk palace fine arts science museum fort mason union street public transportation",
+        "location nearly ideal 5th ave. major bus route goes right downtown just minutes"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "days felt safe",
+        "required maintenance safety deposit box arriving came 5 minutes"
+      ]
+    }
+  },
+  "15": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "rooms exceptionally clean",
+        "suite immaculately tastefully decorated,",
+        "grand deluxe 2 bedroom perfect, clean simple elegant furnishings, bathrooms lovely"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 5,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "nice staff great helping needed ruben bartender pool outstanding look",
+        "thing desk corporate security said investigated, nobody access room staff hotel, tell dress went, months later hear happened favorite dress, got no compensation troubles fact belongings, treat case like just image happened belongings, n't worth fact nobody management corporate help problems",
+        "staff incredible flexibility accomodate needs."
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "great family room location hotel perfect, close want, walk everywhere",
+        "the hotel located city center just zocalo cathedral, shops second-hand bookshops street restaurants, airport drove taxi 127 peso 0,5 hour, pretty close metro stations zocalo allende just 2 peso travel acroos ciudad mexico",
+        "hotel convenient central, n't far, conference moscone center pleasant 5-10 min, walk."
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "worst short trip life stolen hotel room said, going expensive brand hotel does n't mean safety knowing belongings room, stayed particular hotel friend getting married thought safe pr, got ready leave pack belongings favorite dress no",
+        "when left forgot sentimental blanket baby crib, forgot 2 weeks surprise kept blanket, not mailed expense, service."
+      ]
+    }
+  },
+  "16": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 6,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "4m2 hotel room, no seperate shower, combined toilet, swimming pool dirty",
+        "arrived noticed cockroaches surrounding minibar, sick majority trip going bano minutes make matters worse toliet did n't flush waiting people fix, vip excellence club crap food serve sitting day god knows waht crawling",
+        "rooms smaller not clean need minor repair, room peeling paint cracks tub bathroom floor"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 7,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "terrible service visit regent say won__\u00c7_\u00e9_ again, called manager duty not able understand offered free breakfast guess, package included breakfast br/ speaking staff, ignore not disturb__\u00c7 lights, not speak english ignore, managers seating bar restaurant ignore guests__\u00c7 stay week suite none came say hello, staff sees clients annoyance, getting round drinks lobby bar 30-minute affair, extra marks uselessness grumpiness desk",
+        "moment arrived staff helpful efficient, staff helpful letting store luggage checking nearly day",
+        "no help visablely upset, representative did nothing morning, 3 days worrying no help hotel tour operator"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "location hotel perfect, right centre city perfect starting point explore, easy types transport right outside",
+        "great location old san juan condado hotel escambron beach, beach literally hotel left, takes 2 min walk walked day suit flip flops hotel special exit rear beach, 5 min, taxi ride old san juan 10 close restarant beach 2 min walk restaurants hilton hotel just door",
+        "hotel located just steps city center plaza catalunya"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Premium",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "people travelling thier room key safe key money taken thier beach bag, loosing charged 30 safe opened 20us loss room key including taken, tried double charge service checking",
+        "we felt safe secure outside hotel times nice 2 females",
+        "safe room"
+      ]
+    }
+  },
+  "17": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 7,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "rooms definitely minimal there\u2019s bed placed conveniently center room blue fluorescent light fixtures nope not building exterior room serve room\u2019s lighting sheer curtains cordon bathroom, obtuse armoire barely equip carryon luggage mismatched beat alongside mini-bar no better shape, room d\u00e9cor reminded seedy motel bare white walls fluorescent lightning floating bed just mirror ceiling what\u2019s missing",
+        "outside carpeting shabby littered, room narrow bathroom lacked amenities expect hotel charges, towels worn, pillows called pillows flat flatter pancake, rough worn sheets",
+        "went rooms dirty non smoking old packages end tables smelled bad, bathroom dirty tile moldey tub painted look clean.. flat king sheets bed not stay bed"
+      ]
+    },
+    "staff_service": {
+      "tier": "Fail",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 6,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "check-in approached manager told seat chair lobby, asked seat chair told delay sick sitting, insisted needed seat, asked bad news.she proceeded tell overbooked did not room us, no answer, said stay hotel 2 days 30 min, away come rest stay stay hotel week, told stayed hotel wanted stay booked, told did not like hotel offering asked hotel stay, said no choice",
+        "hotel staff offers incompetent concierge service times tried advised visit old san juan shopping mall el yunque far you\u2019d better chances getting advice valet william/kevin booking tours/visits",
+        "girl guest services named marcian somethin like worst seen bad attitude slow restaurants reservations bad english really bad guest services"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "internet dial nature slower mollases"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "right middle madrid lots tapas bars restaurants places drink, handy wander hostal night choose heaps places eat drink popular madrid, great location centre madrid short walk sol metro station means convenient area access attractions transport options airport, atocha regional train station just line catch train spain handy priced convenient hotel",
+        "fantastic location just 5 minutes walk ramblas 5 minute walk placa ctalunya main square city train station bus station tourist buses located easy access city",
+        "the hotel located right bus stop, public transportation convenient, cable car 5 minute walk away"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Superior",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "no homeless people walked feeling perfectly safe night",
+        "felt like safe area lots people strolling going bar bar"
+      ]
+    }
+  },
+  "18": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "immaculate incredibly comfortable",
+        "room clean large",
+        "wonderful place stay let say clean convenient friendly hotel, room clean lovely new bathroom, room large looked courtyard lovely new bathroom"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 16,
+      "sentiment_breakdown": {
+        "positive": 10,
+        "negative": 5,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "encountered worked hotel housekeepers desk friendly",
+        "staff friendly attentive, lawrence bellman great help",
+        "staff friendly helpful went way make sure needed"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "no wifi cable link costs sgd28 plus tax 24 hours just needed hour work e-mails, it__\u00c7_\u00e9_ sgd28 24 hours minimum booked 5 da"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 1,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "walking distance resturants beach lots shopping",
+        "great location away bourbon street",
+        "hotel easily accessible airport located directly sants train approximately fourth stop train airport barcelona, convenient downstairs metro stops 5-10 minutes navigate way various tourist attractions"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Superior",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "rooms small did room saftey reasons bonus, room safe comforting know valuables ok",
+        "free safe parking provided",
+        "stored luggage alba came alba 3 days"
+      ]
+    }
+  },
+  "19": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 5,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "dump glorified 6 motel complete popcorn ceiling views people rooms old dirty outdated decor",
+        "room old dirty, shower bathroom area rust dirt mildew not step bare feet, looked like not cleaned months, walls carpet numerous stains, closet door broken",
+        "hotel clean rooms pleasant"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 4,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "services supplied general manager paid visit make sure ok. like say big thank-you especially, special mention staff fantastic hope meet year,",
+        "staff totally unhelpful reply got carried luggage sheraton expense pay 3 dollars bag, unbelievable, asked late check-out instead said not provide",
+        "problems happen meet unfriendly incompetent rude service really n't want, decide stay adagio prepared fight pay, avoid joel desk rude person met hotel,"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "use free internet faciilities conference room, 5 pc guests use free use unlimited time",
+        "unlike states europe charge internet access 13 euro day pretty annoying"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "100 location fantastic location booked superior room,",
+        "location excellent close union square restaurants bars,",
+        "the location good walking distance shopping area restorants bars, subway stations near major bus lines"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "not advise women travelling area make feel just little bit uncomfortable dark bag snatchers",
+        "wonder things better requested non smokers room, smokers bad deal,",
+        "not safe walk water, room door open"
+      ]
+    }
+  },
+  "20": {
+    "cleanliness": {
+      "tier": "Fail",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 6,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "room not clean toilet did n't flush smoking said non-smoking",
+        "dark stains carpeting blood",
+        "rooms bit tacky good fun..cheetah robes fishing equipment, agree walls paper hear door arguements"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 3,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "service excellent",
+        "confronted theft staff acted inconvenienced, ruined weekend spend filing police reports walking filthy clothes shopping spending money new things money n't try convince staff",
+        "night clerk completely unaccomodating not make amends discomfort"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "wifi expensive n't non-spanish channels reception bad tv room"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "location fantastic given walking distance including stadia railway station rains does transit free large zone downtown",
+        "location villa awesome, private beach yard, mind best villa available excluding ultra luxury villas",
+        "location central"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 4,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "area quite seedy.. hooters street numerous homeless people begging harrassing passersby watch hides bunch leaves jumps people..and gets tips numerous youths drinking cruising vintage cars starting fights, families did hear lady reception claiming feared children area asked staff safe, hotel n't really geared families esp wine evenings reception looked like bunch ol",
+        "bag stolen bellman locked room hmmm inside job",
+        "absent security, walk lobby access floors, not believe questionable characters allowed roam hotel floor located not guests threaten phone police did not leave"
+      ]
+    }
+  },
+  "21": {
+    "cleanliness": {
+      "tier": "Fail",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 8,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "paint peeling ceiling bathroom bed spread visible stains brown goobery stain dripping far wall cleaned 7 days, day leave detailed notes housekeeper expected trash change sheets 3 sets towels did n't, 2 7 days room n't cleaned 7pm night nights actually make room sheets small no pillowcases",
+        "shower black stuff, really concerned heard complaint staying nothing staff there",
+        "first housekeeping deplorable, laugh reviewer actually barged underwear getting dressed no knock"
+      ]
+    },
+    "staff_service": {
+      "tier": "Fail",
+      "n_mentions": 17,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 11,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "did not like untrained unfriendly staff reception, felt treated does not include cleaning ladies really nice friendly",
+        "platinum guest expected courtesy minimum met brusque rude service desk long long waits restaurant especially mirabella virtually ignored",
+        "lousy service no extras reviewers absolutely right, ones rate hotel highly complaints, rude staff"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "Premium",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "it good internet access lots movies",
+        "royal suites air conditioned lobby free internet access lounge area",
+        "no free internet"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "hotel just hop away metrostation fontana therfore relevant sights barcelona easy access.",
+        "perfect location not times square directly central theatre steps subway downtown/uptown, block port authority subway stop away penn station",
+        "hotel walkable train station 10-15 minutes great way immediately sense neighborhood staying"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 4,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "n't locked reservation gone hotels area",
+        "while walking wide sidewalks careful motorcycles vans trucks regularly drive guests walking, noisy pollution dangerous situation",
+        "watch onloading luggage park hotel entrance door not designated parking spots, car 5 minutes got 60 usd fine"
+      ]
+    }
+  },
+  "22": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "beautiful room spotless bathroom",
+        "worn somewhat dirty no water pressure shower torn tiles bath",
+        "room really nice def, room 4 stars"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 7,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 4,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "staff superb, sandro extremely helpful young guys night desk superb especially giovani member ancient original venetian families helpful",
+        "arrived hotel 3am night key cards cancelled went desk treated criminals, nazi desk staff not budge foreigners, handled differently guests japanese, foreigner japan expected westin hotel, desk supervisor arranged reservations friends teppan yaki steak house 22nd floor night tokyo arrived wait 20 minutes told 1 hour table lost reservation",
+        "great staff, staff helpful day"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "wireless net worked fine"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Premium",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 1,
+        "neutral": 4
+      },
+      "evidence_sentences": [
+        "fantastic location near vaparetto stop",
+        "hotel blocks train station relatively quiet street, good location easy walk main shopping district catch transportation venues",
+        "freidrichstrasse train station road reichstag 10-15 minute walk"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "arrived hotel 3am night key cards cancelled went desk treated criminals",
+        "beware casino, hand little free bingo chips, lost 1700 dollars game bingo, just save pain dont no matter bored, yea doors closed, things tend crawl in"
+      ]
+    }
+  },
+  "23": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 5,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "room big dirty walls horrible lighting",
+        "hotel tired worn given described refurbished room, carpet room situated 12th floor dirty heating looked worked like ark did not warm room slightest, windows extremely draughty",
+        "small dirty rooms"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 6,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "great hotel great staff",
+        "absolutely horrible service charged 3 meals breakfast days row breakfast, pretended no longer speak english girl checked great english language skills. late check 10pm hotel claimed gave room away no longer vacancy price point, not room upgrade price despite giving room away, salon gave horrible hair cut no surprise attempted double charge, late flight check took close hour, no exageration close hour",
+        "desk girl asked credit card did, asked id picture, told suitcase storage, told need, told not going open suitcase lobby second time humiliating, hotel manager said thing need id n't offer alternative suggested room suitcase open privately, ofer apologies, finally desk girl suggested check staff room suitcase able id picture, agreed this.this shows hotel supposed cool desk hotel manager n't"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "rest not come bad recption"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "excellent location",
+        "location excellent, short distance champs elysees arc triomphe, best feature hotel opinion",
+        "location excellent not close main attractions certainly good walking distance tube seine"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "horrible throwback overpriced mini-bar n't hiding cupboard right middle desk means staying exuberant child better hide sweets laced big",
+        "suitcase placed storage meantime, told need id n't offer alternative suggested room suitcase open privately",
+        "key cards rooms parking garage 14 parking day worked sporadically"
+      ]
+    }
+  },
+  "24": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 10,
+        "negative": 2,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "rooms great comfortable clean",
+        "rooms clean",
+        "clean hotel, room basic clean"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "friendly staff went way helpful",
+        "instantly feel welcome safe care friendly ethiopian family owners, travel directions restaurant suggestions available wanted free use charge e-mail",
+        "staff simply outstanding, know people say staff great forth tell impressed resort, truly hated end week, staff near tears left impacted impacted"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "surprised internet access bit spotty",
+        "free use charge e-mail"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 0,
+        "neutral": 3
+      },
+      "evidence_sentences": [
+        "just couple minutes walk freidrichstrasse station easy access berlin 20 minutes walk reichstag brandenburg gate",
+        "loved time florence proximity alessandra ponte vecchio meant able wanted",
+        "very close leidse plein museums"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "finally just tiny stairway exit case emergency no sprinkler, day hotel arriving airport maids knocked door probably 4 separate times tried open twice sleeping,",
+        "beware scam according clerk couple room near complained tobacco smoke refund 1 night lodging, little later clerk said refunded 2 nights room-rent, n't stories straight evidence scam",
+        "weekend lot drunken street noise sounds bottles breaking street horns car alarms blasting, bars closed, ask inside room want sleep"
+      ]
+    }
+  },
+  "25": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 1,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "beware filthy, use bathtub long day touring noticed greenish stain tub walls, bath towels tattered looked old stained, towel bath mats canot properly placed floor threads caught washer dryer",
+        "great bathroom, great shower",
+        "actual resort beautiful clean well-maintained"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "contacted desk told break attitude oh really, asked speak deck manager returned, obviously did n't care problem,",
+        "pleasant just unorganized not helpful did not behave like outstanding hotel",
+        "minute checkin.. waited 2hrs room exhausted, also..there absolutely no honeymoon suite offered us..or said..they hotel.this upsetting looked forward getting suite, thats paid upgrade"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "close subway, inside hotel mall pm open late",
+        "location nice"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "talking emplyees car break ins quite problem area, property hires offsite security does drive late evening hours, park car risk better stay,"
+      ]
+    }
+  },
+  "26": {
+    "cleanliness": {
+      "tier": "Elite",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "room immaculate contemporary",
+        "room clean tastefull furnished hotel",
+        "rooms specified clean tidy excellent room service, bathroom separate bath shower toiletries replenished twice daily"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "immediately told management incident, promised search hotel let know missing items, phone calls initiated came information n't, needled hours day somebody management told send letter list missing items incl, costs forward insurance, not worry insurance going compensate, hotel management does not care valuable suff gets stolen, given wrong advice insurance pay n't worry, fed bothering calling 30 minutes..",
+        "mandarin oriental chain service excellent",
+        "impolite stuff husband checked 10 a.m. requested bags picked kept concierge till 2 pm pick way airport, started turn bitter.ms, eva reception asked receipt, told didi n't, said gave husband, said ok not getting bags just want minutes shopping bags, took luggage room bags werent, said maybe room, answer suppose know need bring suitcases n't tell, said told, insisting did n't told, started realy rude uncomfortable hear impolite unpleasant words, telling turned literally ugly finally told shut mouth"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "situated just la rambla small street literally 150m placa catalunya, perfect took aerobus directly airport straight placa catalunya just short walk cases",
+        "close metro close enought sites prefer paris ground level, airport roissey bus drops opera 5-10 minutes walk",
+        "good hotel good location"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "day check beauty case expensive beauty products items chanel shirt hair product, stolen room, day honeymoon, imagine felt",
+        "conditions beach, no life guard, waves extremely strong nasty undertow, no life guards make dangerous children 12"
+      ]
+    }
+  },
+  "27": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 5,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "really need question cleanliness, say n't drink water really n't touch",
+        "complete disaster old shaby dirty stange odours coffee shop restaurant bar, room oldish bathroom uncleaned",
+        "comfortable room clean maid service days xmas period"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 6,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "best service free breakfast late checkout friendly staff",
+        "vacation great staff excellent",
+        "horrible service staff gave incorrect directions venue lost city late wedding, no helped bags"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "bad satellite reception"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "beautiful hotel great location shangri-la located orange grove road just minutes walk orchard road",
+        "location excellent leave hotel straight ramblas busy area no taxis neaded stay",
+        "great location best thing hotel location, lots good eating places not mention kfc maccas hong kong style easy access transport, middle shopping district"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 6,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "gotten staph infection infection, multiple trips doctor 3 different antibiotics fiance staph infection cleared, 3 trips doctor antibiotics infection 3 months later, doctor said not chlorine pools/hot tub called communal bath infection",
+        "wife had warned look reading recent report tripadvisor items stolen room night,",
+        "here__\u00c7_\u00e9_ remember depressing location didn__\u00c7_\u00e9_ feel safe night"
+      ]
+    }
+  },
+  "28": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 4,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "just needed looking clean wife allergies safe town",
+        "room spotless bathroom beautiful, spotlessly clean, bedding changed 1st night towels",
+        "gym facilities good clean"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 15,
+      "sentiment_breakdown": {
+        "positive": 11,
+        "negative": 4,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "staff exception excellent helpful",
+        "staff attentive",
+        "staff helpful met requests"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "room internet access tv not bothered using it"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "hotel heart walking distance prado plaza puerta, lot shopping restaurants nearby",
+        "literally 5 minute walk river maybe 10 minutes center florence",
+        "situated downtown san fran ideal town shopping location"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "oh forget make sure hang not distrub sign door knob maid just walk right room knocking",
+        "bed bugs",
+        "they overcharged basically charged twice husband charge card stay denied"
+      ]
+    }
+  },
+  "29": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 5,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "air conditioning did not work room time rooms bldg, 7 supposed newest ones smelled, moldy mildewy type odor",
+        "clean bed absolutely comfortable bed slpet wanted buy ship home",
+        "stains bath room floor towels big like stamps broken"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 4,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "incredible staff",
+        "staff friendly helpful decor feel peacrful",
+        "desk great helpful felt knew second night stay, want thank staff making childrens stay wonderful seattle"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "great location exploring city",
+        "just missed spot hotelin airport complex connected walkway terminal e",
+        "shopping centre incorporated hotel not far metro station"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "95 degree heat no air conditioning rooms hotel no air conditioning, no information booking online nor option select room air conditioning, weather hot 90 entire stay, room completely impossible hours 9 3, heart goes elderly person stay hot weather",
+        "hotel nice neighborhood dangerous dirty not recommendable",
+        "noticed corridor noise upstairs pretty loud, point night bar drop bottles street making bit noise."
+      ]
+    }
+  },
+  "30": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 5,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "our room downstairs basement level dark dingy dirty,",
+        "rooms comfortable clean",
+        "cleanliness desired, dusty,"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 3,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "service courteous excellent, quick room service rectified problem",
+        "staff just waiting chance serve way difficult key reception bell boys intercepted taken key reach desk, breakfast guide seat pull chair/table immediately order start bring ing food 2 minutes",
+        "staff helpful onsite restaurants good"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "access transportation subway good 2 blocks away",
+        "stay 2 minutes walk london bridge tube station",
+        "great location just far away crowds waterfront close walk great restaurants local attractions"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "locks hotel room doors did not function, things no safes rooms security lax, visit robbed day physically attacked car, hotel, bruises sustained 450 euros stolen purse business information contents stolen,",
+        "did not feel safe not recommend stay,",
+        "pushy merchants town trying sell stuff hotel, rude rip bargain"
+      ]
+    }
+  },
+  "31": {
+    "cleanliness": {
+      "tier": "Elite",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "rooms immaculate loved free shampoo soap shower gel got day",
+        "the room located 10th floor quiet clean comfortable not speck dust",
+        "pools clean place just incredibly kept"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "all staff exception helpful friendly",
+        "the staff reservation desk concierge housekeeping bellmen n't friendlier accomodating",
+        "hotel staff helpful friendly"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "good internet access",
+        "got room internet happy"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 0,
+        "neutral": 3
+      },
+      "evidence_sentences": [
+        "perfect location ideally situated catalunya square las ramblas mere 5 minutes walk away",
+        "iberville suites located just block bourbon street",
+        "good location easy walk nightlife shopping times square, 11 bus went stright airport door"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Premium",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "security lobby attentive desk helpful perfect english skills",
+        "not did add hidden charges debit card totaling 355 euros bank statement charged additional 55 euros approval",
+        "teenagers drinking hotel"
+      ]
+    }
+  },
+  "32": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 17,
+      "sentiment_breakdown": {
+        "positive": 11,
+        "negative": 6,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "bedroom en-suite bathroom spacious clean nicely decorated",
+        "room, clean beds comfy bathroom kept quite pleased",
+        "hotel clean modern expected marriott"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 18,
+      "sentiment_breakdown": {
+        "positive": 10,
+        "negative": 7,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "the staff resort sexually assaulted guests, management no remorse actions staff, wedding coordinator busy met 2 hours late day wedding cancelled rehersal didnt time, resulted unorganized wedding ceremony",
+        "guard doors beginning 11:00 pm n't plan party not let room driving 5 hours just party turned away door idea staying place suppose zaza thing, felt like high class priced prison, oh way came lock liquor cabinet 16 year old room service limo service sucked",
+        "greeted great staff desk, given tips places eat trolley cars ran prices 1.25 exact change"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "fee charged wireless connection room 10 euros 60 minutes, hotel all-inclusive did n't understand wireless n't included, 2 computers free internet lobby like working laptop lobby computers not option",
+        "def reccommend getting upgrade does unlimited internet"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 1,
+        "neutral": 3
+      },
+      "evidence_sentences": [
+        "hotel colomba located heart florence walking distance train station important sights shops san lorenzo market",
+        "hotel great location visited downtown toronto sites foot distillery district",
+        "excellent location blocks great shopping eateries, hotel offers regular shuttle service areas city pick"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "the staff resort sexually assaulted guests",
+        "guard doors beginning 11:00 pm n't plan party not let room driving 5 hours just party turned away door idea staying place suppose zaza thing, felt like high class priced prison, oh way came lock liquor cabinet",
+        "no room safe"
+      ]
+    }
+  },
+  "33": {
+    "cleanliness": {
+      "tier": "Elite",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "room quiet clean, bed comfortable bathroom nice",
+        "nice clean cheap hotel located asakusahttp stayed may-june 2008 5 nights, really nice reception good value clean",
+        "bathroom really clean cleaned bed day"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 2,
+        "neutral": 3
+      },
+      "evidence_sentences": [
+        "staff friendly supportive professional times making extra effort ensure stay pleasant possible",
+        "staff great really helpful",
+        "desk disorganized understaffed, took nearly 30 minutes checked, returned desk different key no, wait lobby 15 minutes returned"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "nice internet n't expensive foyer"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "there metro station literally corner easy tourist attractions 3 4 stops middle champs-elysses",
+        "good location street near grand central, close walk restaurants m15 bus 1st ave",
+        "easily walk ropongi catch metro, metro easy use good"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Premium",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 0,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "safe neighborhood, section window couch actually slides open beware children easily fall out",
+        "room tv safe air",
+        "complaint-which did not actually complain management about-was day came hotel contact lens case missing, assume cleaner not steal guess just swept trash regard temporary not"
+      ]
+    }
+  },
+  "34": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 3,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "weird stains carpet room clean maids awful",
+        "rooms impractical shower open no sliding door curtain leaked time warping sliding door bathroom flowing guest room not carpeted pseudo-wood type thing",
+        "rooms clean showers great, new towels day nice"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "staff courteous helpful, helpful confiming flights making reservations",
+        "great customer service, hotel upgraded room booked nice surprise, breakfast fantastic- everybody service second none, service staff pool area good nothing trouble offered apples lollypops cold towels freshen, great service",
+        "incredible rude woman desk"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "internet cables minibar drawer bizarre unless plan connecting internet"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "grand central did not need cab public transportation, close red light district tucked away traffic",
+        "good location, close la rambles shops bars train station",
+        "good transit hotel changi village good transit hotel, main advantage free shuttle bus to/from airport ask hotel booking desk terminal hotel let know arrived, shuttle leaves hotel airport hour fast efficient way getting time"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 4,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "not uncommon hear bar patrons shouting yelling street crashing glass night, stays awakened loud garbage trucks dumping glass bar waste 4am",
+        "not nearly trip pan handlers outside door place",
+        "key card did n't work"
+      ]
+    }
+  },
+  "35": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 4,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "the room simple comfortable ultraclean",
+        "several things wrong room hair dryer broken sink plunger half broken bathroom looked half cleaned",
+        "rooms large asian standards clean"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 6,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "hotel staff hospitable helpful",
+        "room lost reservation realized light bulbs blown tried phone did not work, approached employee desk simply said doesn__\u00c7_\u00e9_ me__\u00c7 phone does not work, heated conversation employee actually came desk tried physical, asked speak manager told finally arrived clear hotel ran poorly rude basically told just place stay",
+        "desk bell staff extremely helpful friendly looking concerts town acquiring sold-out seahawks tickets,"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "lack in-room internet service, lobby free wireless internet service lobby pretty crappy"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Premium",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 3,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "central location makes gem, ginza itchome metro exit 11 turn right, just short blocks 1 minute walk, connections nearby ginza metro exit 13 convenient hotel excellent",
+        "the location awesome 10 minute walk pike place upscale shopping plus old navy block away, 15 minutes 2nd great bars restaurants convention center block away.",
+        "good location, subway 5 min foot key lines ginza shinjuku"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 5,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "huge issue night, night stay honestly slept 4 hours night, parties thrown common room owner quarters located immediately room, requested room away owners home readings complaints trip advisor assured not problem, boy mislead",
+        "complaint shifty house driver took airport overcharging ride thinking n't notice, n't let stop staying just cab time",
+        "poor security issues deal"
+      ]
+    }
+  },
+  "36": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 6,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "come comfortable spacious immaculate room relax.",
+        "shower leaks terribly, hallway smelled marijuana smoke entire time, room apparently located directly mechanical bull bar upstairs everytime fell shook",
+        "facilities dirty unclean completely unappealing, single unisex toilet cleaned day considering used people joke time covered urine vomit facaes, rooms not clean start certainly n't 5 day stay...inadequate showers clean dated...basement room placed dire need redecorating outside doors leak water paint peeling disgusting marks wall floor needs wash"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 7,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "amazing staff stayed hotel 4 nights honeymoon, florence second stop, check girl dynamo, spoke number languages helped restaurants map museum bookings.",
+        "bags collected car taken room whilst returned car hire company, check cheerful professional welcoming, bags room arrival, staff apologetic morning",
+        "staff lovely concierge called help locate needed souvenir item pair boston red sox socks important requesting certain diamond ring"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "in- room service sporatic best",
+        "attempting use business center check e-mail did n't work desk assist swamped check-ins"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 0,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "tram line just road takes central shopping area, loads restaurants coffee shops bars walking distance",
+        "excellent location stayed beginning 9 friends, thought location hotel excellent close main attractions easy walk, situated right flower market",
+        "convenient location close major sights"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 3,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "clientelle looked like bunch drug dealers lots gold chains pants hanging derierre bathing suits, covered tattoos foul language works, brought boom boxes beach pool blasted foul languaged music",
+        "the problem hotel noise inconsiderate afraid english guests rampage corridors 4am mornign",
+        "beach lot trashed bottles, rooms not rugged floor dirty bugs"
+      ]
+    }
+  },
+  "37": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 18,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 5,
+        "neutral": 4
+      },
+      "evidence_sentences": [
+        "hotel clean",
+        "broken counter tops leaking taps no self closing room doors window locks not working musty stench stairwells",
+        "rooms clean defnately no complaints"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 18,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 8,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "staff polite efficient",
+        "service wonderful, concierge excellent helpful, received excellent treatment",
+        "friendly staff"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "no high speed internet access available cross road sister property lobby pay 10 day",
+        "paying really cheap internet rate minute 69,",
+        "glitch internet entire stay.first good, internet charge standard rooms business center days, time called desk gave differnt explanation different timeframe soluti"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 10,
+        "negative": 0,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "location great, literally right chinatown fisherman__\u00c7_\u00e9_ wharf, trolley stop right hotel subway street, defiantly buy muni pass offer save lot money",
+        "location hotel perfect, espanya area essentially local residential area tourist area, means couple blocks gran cafes shops tapas bars, frequented locals",
+        "hotel not big greatly located just couple blocks palacio real plaza mayor"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 5,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "attempted robbery airport transfers included price n't fooled",
+        "balcony door locks shot",
+        "window locks not working"
+      ]
+    }
+  },
+  "38": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 4,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "rooms crisp clean new",
+        "rooms immaculate",
+        "rooms clean simple"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 11,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "superb service staff got admit worried hotel read reviews, receptionist arranged checked similar standard hotel 100 yards road no hassle all, staff good finding table looked full, receptionist arranged doctor arrived quicklly, receptionist helpful calling taxi not quibbling items n't had, i impressed hotel staff amazing going help sorting problems quickly could",
+        "pro best service, stays experience slight impatience member staff, rest time staff bending backwards really doing best honestly try accommodate- great location nice views.",
+        "great staff best location time amsterdam got help information, staff sent right restaurants clubs, nothing ask, staff helpull especialy dicky"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "free internet access lobby"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "location couldn__\u0096t better",
+        "nice location, best hotel fisherman wharf area",
+        "brilliant location right centre barcelona, main renfe rail link airport 1min walk, passeg gracia"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "no key safe missing lightbulbs 3 lamps dark room like pit",
+        "resides industrial estate surrounded motorway fly-overs building sites, safe way return end day hire taxi",
+        "no safe thought standard hotels"
+      ]
+    }
+  },
+  "39": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 5,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "rooms small dirty, bathroom tiny smallest seen hotel seen lot, room lighting quite dim probablyto hide dirt bathroom lighting,",
+        "the hotel new standard finish dreadful, glance hotel looks stunning built shoddily couple years unless spend lot maintenance come tatty, long driveway resort walk n't quite finished building work piles rubble n't removed landscaped, places mixed concrete tarmac washed white patches, hotel concrete walkways breaking uncomfortable pool areas n't wearing shoes, paths pools areas nice attractive inlaid bricks partly concreted fallen really spoils appearance, in bedrooms public toilet areas standard tiling joke, used professional tilers sta",
+        "loved room spacious bathroom clean"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 3,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "desk friendly helpful",
+        "the desk staff cordial provided room wanted reasonable time, service room service bell staff maid service concierge friendly excellent",
+        "hotel staff friendly willing help"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "laptop, info desk says charge 10 1 day internet use hotels nowadays paid bucks using boyfriend laptop night staying, 11pm attempted online using laptop instead prompted pay, assuming technical glitch called desk"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 1,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "the location incredibly convenient downtown seattle close convention center pike marketplace restaurants",
+        "situated barcelona biggest avenues bus stop right outside hotel metro station nearby 5-10 minutes walk",
+        "good location, easy paris metro bus foot, convenient excellent organic raspail market excellent restaurants nearby,"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "hotel theft ruined vacation",
+        "said main issue not resort leaving resort, sensitive person highly suggest not leaving resort, poverty areas hard bear witness know poverty world just",
+        "bedside lights halogen bulb inside metal shade incredibly hot accident waiting happen."
+      ]
+    }
+  },
+  "40": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 6,
+        "neutral": 4
+      },
+      "evidence_sentences": [
+        "room phone did n't work b/c receiver glued took 3 days new water leaking light bulb bathroom cleaned 1 6 days fight cleaning staff towels constantly sand floors day room cleaned tv 2 days entire resort lost water day, best fumigated room 3 days left",
+        "rooms clean quite spacious amsterdam equipped tv radio hairdryer safe",
+        "beautiful resort amazing design despite 15 years old resort looks fresh timeless great villas wonderful choice pools black sand beach"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 4,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "it__\u00c7_\u00e9_ definitely staff makes place, personal unobtrusive warm discreet trained anticipate guests__\u00c7 needs, surprising impressed reviewers service point suggesting staff telepathic",
+        "staff wow horrendous unfriendly group people, not barely understand word said got upset b/c asked repeat attempt understand",
+        "check-in fast easy efficient, needed help directions advice nothing trouble, able store bags long necessary day late connection"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "policy seasopn charging 10 20 extra high speed internet access downright foolish, instead charging 600 800, room charge 610 810 forgo embarrassing surcharge surely room rate,"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Premium",
+      "n_mentions": 7,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 3,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "location excellent, minutes bustling leiseplein area trams areas amsterdam situated quiet street",
+        "worst questionable neighborhood desk advised not night single female not safe",
+        "perfect neighborhood traveling solo, away downtown area close meseums quiet neighborhood"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "be careful belongings left bag hotel bar early hours morning residents left tucked away corner not view, bag n't handed bar closed shortly left noticed missing re-opened, bar cleaned bag n't handed, reported reception not particularly interested did n't tell contact security, husband went later happy losing cash credit cards camera pictures sightseeing new york nashville days",
+        "noticed male transvestite prostitute waiting room prostitute requesting key, discusting, night time short time hotel rooms rented arrived",
+        "worst questionable neighborhood desk advised not night single female not safe"
+      ]
+    }
+  },
+  "41": {
+    "cleanliness": {
+      "tier": "Fail",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 4,
+        "negative": 6,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "wall paper coming walls bathtub stained shade pulls dirty stained bedspead cruddy/filthy windows, dead mouse outside door did n't help-nor did refuse container outside door not emptied entire time there-overfull food butts styrofoam cups smelled horrible,",
+        "noticed upholsteredfurniture moldy, rooms food service really damper things,",
+        "dirty hotel, lack staff department housekeeping, food so-so past year terrible, 50 people got stomach virus"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 3,
+        "neutral": 3
+      },
+      "evidence_sentences": [
+        "sanjay patricia concierge desk called nj sent emails apologizing offering suite hotel buci sister property 2 doors street, loved buci staff n't nicer accomodating, sanjay booked lunch jules verne w/in eiffel tower local 6th arr restaurants dinner",
+        "several people staff met directly beach scented cool towels cold champagne took luggage set room, sommolier gave guided tour prized wine rooms champagne cellars ask preferences stay",
+        "staff friendly helpful"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "hotel conveniently located city, walking distance passeig gracia major shopping district, conveniently located near urgell metro station",
+        "right opposite vondelpark short walk leidseplein museum quarters close, helps tourist",
+        "great location hotel right center city, walk, 5 minutes dam square minutes rembrandtplein maybe 15 minutes- walking briskly leidensplein"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "dead mouse outside door did n't help-nor did refuse container outside door not emptied entire time there-overfull food butts styrofoam cups smelled horrible,",
+        "items clothing went missing room, calls laundry articles just happened nice lingerie went unanswered",
+        "non-smoking floor smoking allowed restaurants common areas,"
+      ]
+    }
+  },
+  "42": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 5,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "stinky room place sold home travel agent acceptable average tourist think sub standard.the place insect infestation need sorted.the room shown toiletsmell know mean.the room poorly arranged- arrange room just 2 suitcases, the bedding stained cupboard old food plumbing allowed smell doing number 2, air conditining black stuff belching white towels",
+        "room spotless clean",
+        "good central location clean room not slightly slant, good bathroom"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 18,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 8,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "person desk clerk proceeded normal asked id credit card asked adult husband id credit card said need credit card id adults staying room heard not 4 star hotels stayed past, unfortunately husband fhad forgotten id rush san francisco traveled train walked hotel 2 infants, clerk did not proceed turned away said nothing policy, tried explain traveling 2 infant sons not compassionate fact walked way 2 little ones surgery morning got turned away, absolutely disgusted",
+        "lady phone hold said confirm order dinner menu 11:00 pm, hold 7 minutes came phone, called times did thing finally spoke night manager named florencia best person works took order, did n't offer room trie",
+        "hotel staff did not disappoint slightest, staff young friendly helpful"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "fast free internet study room ground floor",
+        "computers w/ internet free use nice"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 10,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "good central location",
+        "hotel close beach, having walgreen 3 blocks away nice, taxi ride airport hotel 19.50",
+        "enjoyed location walked"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "redoing locks seven people given keys exterior doors hotel, not staff onsite manager home depot runs accessible cell phone",
+        "notes took 5 different taxis 3 good 2 tried advantage, taxi though"
+      ]
+    }
+  },
+  "43": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 17,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 6,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "room looked room filthy mirrors dirty crawling insects door frame patio doors hand prints bathro",
+        "expecting cozy trendy room sadly disappointed tiny run-down room strange odor, bed practically floor level afraid head pillow, no warmth room just bare necessities",
+        "hate sterling hotel dallas pictures website deceiving, hotel dirty beds old cave middle"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "service best hotels stayed trip italy, reception desk run paolo signora lombardi able assistance young associate willing accomodate wish make guest visit comfortable enjoyable, nice hotel run nice people",
+        "greeted warmth owner gasim arrived quite late, quickly rental car taken car fare price duration visit, host greated breakfast morning family ready help variety needs tours directions recommendations etc.",
+        "the entertainment crew wonderful earth fun people"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "in lobby wifi zone internet connection"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Premium",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 1,
+        "neutral": 4
+      },
+      "evidence_sentences": [
+        "location excellent major sites walking distance uffizi duomo ponte vecchio piti palace, arrived car porter assistance valet parking big help",
+        "there major traffic route downtown boston directly hotel, car truck noise subway deisel commuter trains run 100 feet hotel",
+        "this motel literally walking distance wanted n't easy bus cable car ride away.we used bay city bikes bike golden gate bridge blazing saddles corner motel read better service bay city, free parkingcompensated transport airport."
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "allocated room not booked no choice, cases follow 30 minutes 90 minutes, walked hour trying room jumping bus",
+        "craned necks small balcony risking life limb",
+        "broken lock mini bar"
+      ]
+    }
+  },
+  "44": {
+    "cleanliness": {
+      "tier": "Elite",
+      "n_mentions": 20,
+      "sentiment_breakdown": {
+        "positive": 16,
+        "negative": 4,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "hotel incredibly clean new paint job just arrived",
+        "room did not musty smell bright clean",
+        "clean looked new"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 21,
+      "sentiment_breakdown": {
+        "positive": 13,
+        "negative": 7,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "staff friendly",
+        "staff friendly particularly bellmen technician came help dvd player room slight problem nothing major, bellman particular believe noted reviews especially sweet chatting helping lot",
+        "staff helpful friendly, everthing ordering cab using cashing traveller checks checking effortless"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "wi-fi internet initially did n't work passed staff member manager finally helped",
+        "guests use bit outdated kept jamming checking emails"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 2,
+        "neutral": 3
+      },
+      "evidence_sentences": [
+        "really conveniently located right central business district 5-10 min walking distance sydney harbor major shopping areas hyde park george street nightlife",
+        "location ca n't better deal",
+        "location street arno 5 10 minutes major sites wonderful"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "suffering dysentery reared ugly head 28th, july 3rd",
+        "en-route hotel slightly perturbed area travelling left city entered greyish industrial area"
+      ]
+    }
+  },
+  "45": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 13,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 4,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "cleanliness service sheraton worst encountered, bad smell loud sleazy lounge act noisy way rooms carpets stained hallways rooms worst bedbugs, huge itchy red spots legs",
+        "hotel renovated clean",
+        "plush clean"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 15,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 8,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "person showed room said not single word not, none amenities__\u00c7_\u0090\u0085elcome drinks fruit car service airport/train station mentioned offered, received drinks fruit requests, amenities just dropped decided staff indifferent overworked, person hung mid-sentence",
+        "hotel staff failed correct problem making resort opening windows allowing street noise strong winds interrupt seminar, hotel informed conducting drill morning meaning alarms interrupted seminar",
+        "manager staff extremely informative accomodating,"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 10,
+        "negative": 2,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "metro 2 min walk replacement bus time metro stops night n6 nightbus stops right outside hotel door runs night fantastic just make sure bus right direction inadvertently went tour city",
+        "good location 1.5 blocks union square",
+        "hotel good area not far union square shopping market street"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 4,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "bedbugs just returned trip beijing, worst bedbugs, huge itchy red spots legs",
+        "booked floor near loading dock hotel door, deliveries hours day night, awoken 2am unloading tables chairs large party day",
+        "calls hotel security trying kids quiet failed solve problem"
+      ]
+    }
+  },
+  "46": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 4,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "room large nyc clean come expect westin including comfy bed bath",
+        "clean quite professional staff",
+        "great hotel, stayed superior room great size small kitchen area tea/coffee making facilities sink fridge seating area flat screen tv good sized bathroom bath shower big comfy bed"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 5,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "friendly reception team helpful maids",
+        "arrived greeted nothing short warm smiles helpful service, asked room upgrade got free, customer service resort amazing",
+        "key issued person not listed registration tried enter room sleeping, calling maintenance man repair air conditioning ruined 10.00 movie paid"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "internet service buggy, buy 12 hour vouchers 8 euros, faulty failed killing connections 12 hours occasion failing 20 minutes not refund"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "westin great location fantastic 1/2 block subway rest madness times square",
+        "location spot just 2 minutes walk louvre 2 minutes place la concorde rue rivoli",
+        "lazy shuttle shinjuki station walk mile usually quite nice unless super hot tokyo days"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "key issued person not listed registration tried enter room sleeping",
+        "door looked like kicked point fixed screws"
+      ]
+    }
+  },
+  "47": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 15,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 6,
+        "neutral": 4
+      },
+      "evidence_sentences": [
+        "the room wonderful sleep like babies- no noise right temperature comfy bed.. felt like princess drawing curtains waking oasis white lovely lovely lovely",
+        "clean",
+        "hotel open 6 months extremely clean"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 8,
+        "negative": 4,
+        "neutral": 2
+      },
+      "evidence_sentences": [
+        "staff polite friendly willing help, nothing bother arranged car parked returned wanted it- gave advice asked calls book tickets operas comparing different companies",
+        "polite helpfull staff",
+        "great staff, staff just wonderful, receptionist owner desk not gracious helpful, provided useful information wanted share sites san francisco wonderful, pretty special lady"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "free internet hotel room plus",
+        "free wifi available rooms"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 12,
+      "sentiment_breakdown": {
+        "positive": 9,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "minutes using jubilee line forget dlr weekends undergoing perpetual maintenance work",
+        "great location rooms wanted stay 15 years did n't disappoint way, location half block jackson square perfect",
+        "location easy drive bonus"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 7,
+      "sentiment_breakdown": {
+        "positive": 2,
+        "negative": 5,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "lost laptop checkout lobby lax security hotel okay staff friendly, beware, hotel no security, not believe watching security video person street walked inside walked away laptop checking, easy outsiders hotel no belldesk help luggage checkout",
+        "dont surprised homeless people urinating walkways, area really run home homeless people",
+        "n't book hotels gaylang area simply hotels cheap unless ok having prostitutes neighbors doing business"
+      ]
+    }
+  },
+  "48": {
+    "cleanliness": {
+      "tier": "Premium",
+      "n_mentions": 11,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 5,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "rooms spotless bathroom huge double sinks separate shower bath",
+        "room dirty phone room not working, rooms small similar rooms motel 6. ants rooms room stayed cigarette burns sheets gross",
+        "horror begins enter rooms, say imagine college dorm room worse, beds old furniture awful bathroom not refurbished probably 15 years, turned faucet brown/rust water came indicating probably no stayed quite time, breakfast buffet horrendous thing ate eggs knew cracked open right no bugs crawled food"
+      ]
+    },
+    "staff_service": {
+      "tier": "Premium",
+      "n_mentions": 14,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 6,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "big kudos door staff, friendly helpful felt like leaving family waved went home taxi",
+        "staff polite helpful",
+        "staff best experienced, did tip driver loved doing great information reservations local restaurant taking shopping just called hotel gave info"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 1,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "do not use inhouse internet sg3 hour peter"
+      ]
+    },
+    "location_accessibility": {
+      "tier": "Superior",
+      "n_mentions": 9,
+      "sentiment_breakdown": {
+        "positive": 7,
+        "negative": 1,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "great location midtown, easy manhattan",
+        "ca n't beat location la rambla metro bus airport tour buses",
+        "great location waikiki beach"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "Fail",
+      "n_mentions": 3,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "brother law stolen street bar scam distracted stole pack, new passport american consolate said place packed americans similar stories",
+        "upstairs neighbor literally stomped making impossible sleep ceiling shaking, called desk 5:30 attendant stated look, 30 minutes later noise n't stopped called say n't called individual departures care, hour later noise not subsided called time say checking, checked 3.5 hours later contacted individual got angry n't understand noise stopped approx"
+      ]
+    }
+  },
+  "49": {
+    "cleanliness": {
+      "tier": "Superior",
+      "n_mentions": 5,
+      "sentiment_breakdown": {
+        "positive": 3,
+        "negative": 2,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "indo national cleanliness awesome, breakfasts exactly hoped, massive amounts different foods really clean set",
+        "cozy room thoughtfully designed appointed luxurious bed linens",
+        "impressed quality room"
+      ]
+    },
+    "staff_service": {
+      "tier": "Superior",
+      "n_mentions": 8,
+      "sentiment_breakdown": {
+        "positive": 5,
+        "negative": 2,
+        "neutral": 1
+      },
+      "evidence_sentences": [
+        "friendly staff treated frequent guest",
+        "greeted warm professional approach, staff expedient having checked rooms exhausted time stood desk personnel major plus sleep time, ive noticed service par mark twain manager mr. jake treated family service havent seen long time, service-excellent",
+        "staff really friendly drank stupid cocktails night pass time midnight horror flight agus pub great company, staff breakfast area not feed make happy"
+      ]
+    },
+    "wifi_quality": {
+      "tier": "insufficient_data",
+      "n_mentions": 0,
+      "sentiment_breakdown": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": []
+    },
+    "location_accessibility": {
+      "tier": "Elite",
+      "n_mentions": 6,
+      "sentiment_breakdown": {
+        "positive": 6,
+        "negative": 0,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "location really good 30 minute walk kuta restaurants jl padma excellent recommend",
+        "t situated beautifully sightseeing cable car walking stores",
+        "hotel mela perfectly located quiet street heart times square"
+      ]
+    },
+    "safety_&_securiy": {
+      "tier": "insufficient_data",
+      "n_mentions": 2,
+      "sentiment_breakdown": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0
+      },
+      "evidence_sentences": [
+        "robbed twice, woke vehicle robbed vandalized parked lobby parking lot, ignition torn shreds passenger door lock missing, no security cameras tell truth inside job,",
+        "not remember time travelling single woman felt comfortable hotel mela"
+      ]
+    }
+  }
+}
